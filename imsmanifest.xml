@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_67RhWZvCHUM_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">e-madrassa</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="e-madrassa_ORG">
+    <organization identifier="e-madrassa_ORG">
+      <title>e-madrassa</title>
+      <item identifier="e-madrassa_SCO" isvisible="true" identifierref="__67RhWZvCHUM_course_id_RES">
+        <title>e-madrassa</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__67RhWZvCHUM_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6IRlyB8d88O_80_B24_C-41_DX1014_DY1014_CX760_CY537.jpg" />
+      <file href="mobile/6fhWdObws3d_80_DX154_DY154_CX115_CY115.png" />
+      <file href="mobile/6TRbm3VES9h_80_DX170_DY170_CX127_CY127.png" />
+      <file href="mobile/6gBswC1cfEc_80_DX166_DY166_CX124_CY124.png" />
+      <file href="mobile/6b27pof4lBH_80_DX138_DY138_CX103_CY103.png" />
+      <file href="mobile/6WEWv8hA9kF_80_DX152_DY152_CX114_CY114.png" />
+      <file href="mobile/6O7Hg6MuSFd_80_DX184_DY184_CX138_CY138.png" />
+      <file href="mobile/5upWhce8NET_80_DX180_DY180_CX135_CY135.png" />
+      <file href="mobile/5gVR0SI0Cag_80_DX138_DY138_CX103_CY103.png" />
+      <file href="mobile/6lOVsFaHHzc_80_DX152_DY152_CX114_CY114.png" />
+      <file href="mobile/5kWshgPFmeA_80_DX124_DY124_CX93_CY93.png" />
+      <file href="mobile/6WEynDbCR2K_80_DX184_DY184_CX138_CY138.png" />
+      <file href="mobile/5aoAPXwHT46_80_Q2D9D9D9_DX2016_DY2016_CX1024_CY1024.jpg" />
+      <file href="mobile/6WEynDbCR2K_X_80_DX184_DY184_CX138_CY138.png" />
+      <file href="mobile/5jVvOoRfeeP_80_DX928_DY928_CX171_CY423.png" />
+      <file href="mobile/5jVvOoRfeeP_80_DX928_DY928_CX174_CY429.png" />
+      <file href="mobile/6gcpccqdMlC_80_DX930_DY930_CX352_CY605.png" />
+      <file href="mobile/5jVvOoRfeeP_80_DX928_DY928_CX245_CY605.png" />
+      <file href="mobile/5jVvOoRfeeP_80_DX930_DY930_CX245_CY605.png" />
+      <file href="mobile/6gcpccqdMlC_80_DX928_DY928_CX215_CY370.png" />
+      <file href="mobile/5jVvOoRfeeP_80_DX928_DY928_CX226_CY559.png" />
+      <file href="mobile/5jVvOoRfeeP_80_DX928_DY928_CX230_CY568.png" />
+      <file href="mobile/6gcpccqdMlC_80_DX928_DY928_CX325_CY559.png" />
+      <file href="mobile/5XaRwAJd2ep_X_80_DX1424_DY1424_CX852_CY852.png" />
+      <file href="mobile/5XaRwAJd2ep_X_80_DX1424_DY1424_CX900_CY900.png" />
+      <file href="story_content/6YYlHszdb9Z_44100_48_0.mp3" />
+      <file href="mobile/62nVkFJ9tW8_80_DX252_DY252_CX145_CY111.png" />
+      <file href="mobile/62nVkFJ9tW8_80_DX254_DY254_CX174_CY133.png" />
+      <file href="mobile/5pLH4vSnFfK_80_DX198_DY198_CX148_CY148.png" />
+      <file href="mobile/6AbagZB5avs_80_DX140_DY140_CX105_CY105.png" />
+      <file href="mobile/64KicdlIVbw_80_DX184_DY184_CX138_CY137.png" />
+      <file href="mobile/64KicdlIVbw_80_B3_C100_DX184_DY184_CX138_CY137.png" />
+      <file href="mobile/5XaRwAJd2ep_X_80_DX1424_DY1424_CX783_CY783.png" />
+      <file href="story_content/5fl9wuRl5fS_44100_48_0.mp3" />
+      <file href="mobile/5XaRwAJd2ep_80_DX1424_DY1424_CX1000_CY1000.png" />
+      <file href="mobile/6gcpccqdMlC_X_80_DX928_DY928_CX285_CY490.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5YjgdEeFNfS.js" />
+      <file href="html5/data/js/67vLOPSunEQ.js" />
+      <file href="html5/data/js/68egwyBMUH8.js" />
+      <file href="html5/data/js/69eFNILCINT.js" />
+      <file href="html5/data/js/6ex44TAzMkq.js" />
+      <file href="html5/data/js/6hfEmhGN0cP.js" />
+      <file href="html5/data/js/6NP5aYglaU4.js" />
+      <file href="html5/data/js/6pkBeu9NKbd.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
